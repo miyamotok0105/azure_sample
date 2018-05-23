@@ -26,6 +26,11 @@ https://docs.microsoft.com/ja-jp/cli/azure/authenticate-azure-cli?view=azure-cli
 az account list
 ```
 
+### コンテナリポジトリ
+
+azure管理画面からContainerで検索してコンテナリポジトリを作成する。    
+
+
 ### docker login
 
 docker loginでloginできる    
